@@ -1,2 +1,2 @@
 # TestProject
-Test project to learn git commands
+Test project to play with git commands
